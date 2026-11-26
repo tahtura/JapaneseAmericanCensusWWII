@@ -1,20 +1,20 @@
 cff-version: 1.2.0
-title: "Japanese-American WWII LLM ER Materials"
+title: Japanese-American WWII LLM ER Materials
 version: 1.0.0
 date-released: 2026-11-26
-license: "UMD"
+license: UMD
 type: software
-abstract: "The prompts, test subset outputs, and final set output of LLM ER on Japanese-American Census records."
-message: "Please cite as shown below."
+abstract: The prompts, test subset outputs, and final set output of LLM ER on Japanese-American Census records.
+message: Please cite as shown below.
 authors:
   - given-names: Tahura
     family-names: Turabi
     affiliation: University of Maryland
-    orcid: "https://orcid.org/0000-0002-2504-9420"
+    orcid: https://orcid.org/0000-0002-2504-9420
   - given-names: Richard
     family-names: Marciano
     affiliation: University of Maryland
-    orcid: "https://orcid.org/0000-0002-6813-5046"
+    orcid: https://orcid.org/0000-0002-6813-5046
 keywords:
   - computational archival science
   - artificial intelligence
