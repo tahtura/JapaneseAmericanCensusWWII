@@ -1,10 +1,11 @@
 cff-version: 1.2.0
 title: "Japanese-American WWII LLM ER Materials"
 version: 1.0.0
+date-released: 2026-11-26
 license: "UMD"
 type: software
 abstract: "The prompts, test subset outputs, and final set output of LLM ER on Japanese-American Census records."
-message: ""
+message: "Please cite as shown below."
 authors:
   - given-names: Tahura
     family-names: Turabi
